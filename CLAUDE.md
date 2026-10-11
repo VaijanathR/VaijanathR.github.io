@@ -13,7 +13,7 @@ files are served as-is.
 
 - `index.html` — single-page markup: About, Resume (experience/education timeline), Projects, Contact
 - `css/style.css` — all styling; theming is done via CSS custom properties on `:root`, with a dark-mode
-  override under `:root[data-theme="dark"]` and a `prefers-color-scheme: dark` media query fallback
+  override under `:root[data-theme="dark"]` and a `prefers-color-scheme: dark` media query fallback; dark is the default (set on <html> and in script.js)
 - `js/script.js` — vanilla JS, no dependencies: light/dark theme toggle (persisted to `localStorage`
   under the `theme` key) and the footer copyright year
 - `resume.pdf` — intentionally **not tracked** (gitignored). It contains a personal phone number and
