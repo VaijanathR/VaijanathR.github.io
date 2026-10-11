@@ -21,10 +21,7 @@ files are served as-is.
 
 ## Editing content
 
-Several sections still hold placeholder content, marked with `data-placeholder` attributes / a
-`placeholder-*` CSS class in `index.html` (resume experience entries beyond the IISc coursework line,
-education before it, the LinkedIn link, and the résumé PDF download). Search `index.html` for
-`placeholder` to find them before assuming a section's content is final/real.
+Resume, experience, education and LinkedIn are filled from the user's Jul-Aug 2026 résumé (phone number intentionally omitted). No placeholders remain.
 
 Projects listed in `index.html` are the user's real public GitHub repos (`agentic-qe`,
 `agentic-qe-mvp2`, `agentic-qe-mvp3`) — when adding/removing project cards, verify the link actually

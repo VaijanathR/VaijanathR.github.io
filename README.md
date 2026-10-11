@@ -13,9 +13,7 @@ Live at: https://VaijanathR.github.io
 
 ## Editing
 
-Sections still holding placeholder content are marked with `data-placeholder`
-attributes and inline comments in `index.html` — search for `placeholder` to
-find them (resume experience entries, LinkedIn link, résumé PDF).
+Content comes from the user's résumé; the phone number is intentionally not published.
 
 ## Deploying
 
