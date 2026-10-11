@@ -13,7 +13,7 @@ Live at: https://VaijanathR.github.io
 
 ## Editing
 
-Content comes from the user's résumé; the phone number is intentionally not published.
+Content comes from the user's latest résumé (Oct 2026); the phone number is intentionally not published.
 
 ## Deploying
 

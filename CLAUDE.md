@@ -21,7 +21,7 @@ files are served as-is.
 
 ## Editing content
 
-Resume, experience, education and LinkedIn are filled from the user's Jul-Aug 2026 résumé (phone number intentionally omitted). No placeholders remain.
+Resume, experience, education and LinkedIn are filled from the user's latest (Oct 2026) résumé (phone number intentionally omitted). No placeholders remain.
 
 Projects listed in `index.html` are the user's real public GitHub repos (`agentic-qe`,
 `agentic-qe-mvp2`, `agentic-qe-mvp3`) — when adding/removing project cards, verify the link actually
